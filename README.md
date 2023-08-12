@@ -28,27 +28,34 @@ Configurar tu diseño
 # LECCION 3, Material Design
 
 Usa material Design
+
 ![image](https://github.com/bibi2407/TUTORIAL_COMPOSE_BIBI/assets/128636279/be595f14-c5c5-4c57-b484-c61867c81134)
 ![image](https://github.com/bibi2407/TUTORIAL_COMPOSE_BIBI/assets/128636279/aa1ec02d-001c-45ed-a3e6-45f0a142c15a)
 
 Color
+
 ![image](https://github.com/samuelcadena/TUTORIAL_COMPOSE_SAMUEL/assets/127992305/9a579c3b-ea24-4510-ba15-baf86effe209)
 
 Tipografia
+
 ![image](https://github.com/samuelcadena/TUTORIAL_COMPOSE_SAMUEL/assets/127992305/8f94d81c-b8d6-47d2-aca4-2fca4fd4e910)
 
 Forma
+
 ![image](https://github.com/samuelcadena/TUTORIAL_COMPOSE_SAMUEL/assets/127992305/7194fb76-0d13-4553-8ac0-2f6496ad3eec)
 
 Habilitar el tema oscuro
+
 ![image](https://github.com/samuelcadena/TUTORIAL_COMPOSE_SAMUEL/assets/127992305/ccf713e5-d1eb-4867-937f-f1c3b3b1db5f)
 
 # LECCION 4, Listas y animaciónes:
 
 Crear una lista de mensaje
+
 ![image](https://github.com/samuelcadena/TUTORIAL_COMPOSE_SAMUEL/assets/127992305/743f7729-8817-456a-9a16-39bfd6c3f32c)
 
 Agrega animaciónes cuando se expandan los mensajes 
+
 ![image](https://github.com/bibi2407/TUTORIAL_COMPOSE_BIBI/assets/128636279/9eb0cd95-7f12-44e2-a710-c849ed286a43)
 ![image](https://github.com/bibi2407/TUTORIAL_COMPOSE_BIBI/assets/128636279/eec22cda-f59d-432c-8097-ec19b49e6e07)
 
